@@ -94,7 +94,7 @@ This professional-grade trading system is designed for serious traders who deman
 1. **Download the Files**
    ```bash
    # Clone or download the repository
-   git clone https://github.com/yourusername/ut-bot-trading-system.git
+   git clone https://github.com/kaleemullahkhan786/UT-Bot-Trading-System.git
    ```
 
 2. **Install Indicator**
